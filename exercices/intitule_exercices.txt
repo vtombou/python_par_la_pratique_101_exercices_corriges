@@ -1,0 +1,23 @@
+39
+sortir d'une boucle infinie
+trouver l'erreur dans une boucle for
+041 - trouver l'erreur dans la fonction
+042 - trouver l'erreur dans un fonction 2
+043 - afficher la table de multiplication d'un nombre
+044 - recuperer l'index de l'iteration dans un boucle
+045 - recuperer seulement les elements pairs d'une liste
+046 - recuperer seulement les elements paris d'une liste avec la comprehension de liste
+047 - additionner les chiffres d'un nombre
+048 - remplacer un élément dans une liste
+049 - Enlever les doublons d'une liste
+050 - Printer une phrase tant que l'utilisateur le demande
+051 - Ajouter les éléments à un dictionnaire
+052 - Créer un dictionnaire avec les lettres de l'alphabet 
+053 - Recréer la fonction len
+54 - Créer un motif avec des print
+55 - Créer une pyramide de symboles
+56 - Formater un texte avec la fonction format
+57 - Ajouter un séparateur des milliers à un nombre
+58 - Calculer l'année de naissance à partir d'un âge donné
+59 - Calculer la somme des nombres entre deux nombres
+60 - Trier une liste d'employés
