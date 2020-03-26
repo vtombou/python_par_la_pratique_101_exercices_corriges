@@ -21,3 +21,4 @@ trouver l'erreur dans une boucle for
 58 - Calculer l'année de naissance à partir d'un âge donné
 59 - Calculer la somme des nombres entre deux nombres
 60 - Trier une liste d'employés
+61 - Créer une fonction pour remonter dans une structure de dossiers
