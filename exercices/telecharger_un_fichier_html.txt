@@ -1,0 +1,12 @@
+ Extraction de données de documents HTML
+
+1- urllib (Modules de gestion des URLs)
+Le module urllib fait partie de la bibliothèque standard de Python, c'est un paquet qui collecte 
+plusieurs modules travaillant avec les URLs :
+    - urllib.request pour ouvrir et lire des URLs ;
+    - urllib.error contenant les exceptions levées par urllib.request ;
+    - urllib.parse pour analyser les URLs ;
+    - urllib.robotparser pour analyser les fichiers robots.txt.
+source: https://docs.python.org/fr/3.6/library/urllib.html ; 
+        https://docs.python.org/3/howto/urllib2.html
+        https://www.youtube.com/watch?v=LosIGgon_KM
